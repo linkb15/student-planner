@@ -1,0 +1,8 @@
+{
+  "name": "Student Planner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7fa66b8a"
+}

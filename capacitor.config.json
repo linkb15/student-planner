@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Student Planner",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
